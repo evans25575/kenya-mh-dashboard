@@ -102,7 +102,7 @@ An interactive web dashboard built with **Streamlit + Plotly**.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/kenya-mh-dashboard.git
+git clone https://github.com/evans25575/kenya-mh-dashboard/kenya-mh-dashboard.git
 cd kenya-mh-dashboard
 
 # 2. Install dependencies
