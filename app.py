@@ -1,5 +1,5 @@
 """
-Kenya Mental Health M&E Dashboard
+Kenya Mental Health Monitoring & Evaluation Dashboard
 ==================================
 Streamlit application for county-level mental health monitoring.
 
