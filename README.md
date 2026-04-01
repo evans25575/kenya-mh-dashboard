@@ -80,7 +80,9 @@ kenya_health_m_e_dataset.csv   ← Clean, analysis-ready dataset
 
 ## 📊 Streamlit Dashboard
 
-An interactive web dashboard built with **Streamlit + Plotly**.
+## 📊 Dashboard Preview
+
+![Kenya Mental Health Dashboard](sample.png)
 
 ### Features
 
