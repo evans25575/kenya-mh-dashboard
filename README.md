@@ -82,7 +82,7 @@ kenya_health_m_e_dataset.csv   ← Clean, analysis-ready dataset
 
 ## 📊 Dashboard Preview
 
-![Kenya Mental Health Dashboard](sample.png)
+![Kenya Mental Health Dashboard](assets/sample.png)
 
 ### Features
 
