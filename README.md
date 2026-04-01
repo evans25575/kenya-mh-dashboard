@@ -186,4 +186,4 @@ This project demonstrates practical skills in:
 
 ---
 
-*Built to demonstrate real-world M&E data skills for digital health roles in NGO, government, and international health contexts.*
+
