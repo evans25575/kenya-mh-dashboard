@@ -1,7 +1,7 @@
 # 🧠 Kenya Mental Health Monitoring & Evaluation (M&E) Dashboard
 ## 📊 Dashboard Preview
 
-![Kenya Mental Health Dashboard](assets/dashboard.png)
+![Kenya Mental Health Dashboard](sample.png)
 > A real-world-style digital health data system tracking mental health service delivery across 41 Kenyan counties — built to simulate the workflows used by health NGOs and county health departments.
 
 ---
